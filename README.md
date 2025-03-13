@@ -1,165 +1,92 @@
 # **KUIS 1 PROVIS**
 ## Kelompok 68
-- Mochamad Zidan Rusdhiana (2305464)
-- Muhammad Daffa Ma'arif (2305771)
-##
+- Mochamad Zidan Rusdhiana (2305464)  
+- Muhammad Daffa Ma'arif (2305771)  
 
-Project flutter desain UI untuk aplikasi rental alat perkemahan, tugas kuis berkelompok dengan 2 anggota dalam mata kuliah program visual dan piranti bergerak.
+## **Deskripsi Proyek**
+Project Flutter desain UI untuk aplikasi **rental alat perkemahan**. Proyek ini merupakan tugas kuis kelompok dalam mata kuliah **Program Visual dan Piranti Bergerak**.
+
+---
 
 ## **Main Features**
-**1. Homepage**
-   
-   - halaman utama aplikasi, menampilkan beberapa item yang populer dan dapat sorting item berdasarkan kategori.
+1. **Homepage** – Menampilkan item populer & sorting berdasarkan kategori.  
+2. **Item Details** – Deskripsi, harga, ketersediaan, review, dan rating.  
+3. **Special Packages** – Penawaran paket camping set lebih murah.  
+4. **Cart** – Keranjang belanja untuk menyimpan item yang akan disewa.  
+5. **Checkout** – Halaman pembayaran dengan perhitungan total harga dan pajak.  
+6. **Chat** – Fitur chat dengan admin terkait alat perkemahan & transaksi.  
+7. **Wishlist** – Menyimpan item yang ingin disewa di masa mendatang.  
+8. **Orders** – Monitoring orderan, baik yang aktif maupun selesai.  
+9. **Returns** – Halaman pengembalian produk dengan pilihan **store drop-off** atau **pickup service**.  
+10. **Profile** – Halaman profil user, berisi informasi pengguna.  
 
-**2. Item Details**
+---
 
-   - detail product, seperti deskripsi, harga, ketersediaan, dan review beserta rating
-   
-**3. special packages**
+## **Detail Navigasi**
+- Saat pertama kali membuka aplikasi, user akan diarahkan ke **Main Menu** yang memuat tombol untuk setiap fitur, sehingga lebih mudah menavigasi aplikasi.  
+- Setiap **page utama** memiliki tombol kembali ke **Main Menu**, kecuali **sub-page** (misal: checkout, cart).  
 
-   - kumpulan penawaran paket-paket camping set dengan harga yang lebih murah dibanding item satuan
-   
-**4. Cart**
-
-   - keranjang belanja yang menampung item atau paket yang akan disewa
-   
-**5. Checkout**
-
-   - halaman checkout product, menghitung harga total product dengan pajaknya dan dapat memilih metode pembayaran
-   
-**6. chat**
-    
-   - fitur chatting dengan admin untuk bertanya terkait alat perkemahan maupun masalah transaksi
-    
-**7. wishlist**
-
-   - list product yang disukai atau ingin disewa suatu saat
-    
-**8. Orders**
-
-   - monitoring orderan, berisi detail produk yang disewa, untuk ordeeran aktif maupun yang sudah selesai
-    
-**9. returns**
-
-   - halaman pengembalian product setelah masa sewa berakhir, dapat memilih store drop-off maupun menggunakan pickup service
-
-**10. Profile**
-
-   - halaman profil user, berisi informasi user
-
-## **Detail**
-- Ketika user pertama kali run atau masuk ke aplikasi, maka tampilan awal adalah Main Menu yang berisi tombol yang mengarah ke tiap fitur pada aplikasi ini, memudahkan untuk melihat semua fitur tanpa harus mengeksplor keseluruhan aplikasi.
-
-- Pada setiap page utama (seperti homepage, chat, orders, dll), kecuali sub-page (seperti cart pada homepage, checkout pada cart, dll) ada tombol khusus pada pojok kiri atas yang mengarah ke Main Menu awal, untuk memudahkan pengecekan fitur selanjutnya.
-  
-<img src= "https://github.com/user-attachments/assets/819c2407-8854-4b1c-a6fd-0a7736df1520" style="width: 250px; height:auto;">
+---
 
 ## **Tech Stack**
-🛠 Flutter & Dart – Framework utama untuk membangun aplikasi mobile.
-<p>🎨 Material Design – Digunakan untuk tampilan UI yang modern dan responsif.</p>
+🛠 **Flutter & Dart** – Framework utama untuk aplikasi mobile.  
+🎨 **Material Design** – UI modern & responsif.  
 
-## **Instalasi & run aplikasi**
-Sebelum menjalankan aplikasi, pastikan beberapa tools berikut sudah terinstall:
+---
 
-✅ Prasyarat Wajib:
+## **Instalasi & Menjalankan Aplikasi**
+**Prasyarat Wajib:**
+- Flutter SDK  
+- Android Studio / VS Code  
+- Git  
+- Emulator / perangkat fisik  
 
-- Flutter SDK
-- Android Studio atau Visual Studio Code
-- Git (jika ingin clone dari repository)
-- Emulator atau perangkat fisik untuk menjalankan aplikasi
-<p>➕ Tambahan (Opsional, tapi Direkomendasikan):
+**Tambahan (Opsional, tapi Direkomendasikan):**
+- Java JDK (untuk Android Studio)  
+- Android SDK & Platform Tools  
+- VS Code Flutter & Dart Extensions  
 
-- Java JDK (Jika menggunakan Android Studio)
-- Android SDK & Platform Tools
-- VS Code Flutter & Dart Extensions
-</p>
-jika sudah, berikut langkahnya.<br>
-
-1. Clone repo ini.
-   ```
+### **Langkah Instalasi**
+1. **Clone repository**
+   ```bash
    git clone https://github.com/zidanrusdhiana/kuis_kelompok_68.git
    cd kuis_kelompok_68
    ```
-
-2. Install dependencies.
-   ```
+2. **Install dependencies**
+   ```bash
    flutter pub get
    ```
-3. Jalankan aplikasi.
-   ```
+3. **Jalankan aplikasi**
+   ```bash
    flutter run
    ```
 
-## **Screenshot preview**
+---
 
-<img src= "https://github.com/user-attachments/assets/7c579ed7-72bc-44a2-83b7-e07a2129cb7d" style="width: 250px; height:auto;">
--
-<img src= "https://github.com/user-attachments/assets/088aacc9-dd42-4f1a-9823-2171c77957f5" style="width: 250px; height:auto;">
--
-<img src= "https://github.com/user-attachments/assets/3dc404ed-5081-49a2-87fb-017f9ece46ee" style="width: 250px; height:auto;">
-<p><i>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Homepage
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  Product details
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  Ratings
-</i></p>
+## **Screenshot Preview**
+### **Tampilan Aplikasi**
+| Homepage | Product Details | Ratings |
+|---|---|---|
+| <img src="https://github.com/user-attachments/assets/7c579ed7-72bc-44a2-83b7-e07a2129cb7d" width="250"> | <img src="https://github.com/user-attachments/assets/088aacc9-dd42-4f1a-9823-2171c77957f5" width="250"> | <img src="https://github.com/user-attachments/assets/3dc404ed-5081-49a2-87fb-017f9ece46ee" width="250"> |
 
-##
-<img src= "https://github.com/user-attachments/assets/96c4dc56-0202-40e2-9025-bb01fcffa2e5" style="width: 250px; height:auto;">
--
-<img src= "https://github.com/user-attachments/assets/b9f4f664-1fc3-426c-bd43-b275415cc95e" style="width: 250px; height:auto;">
--
-<img src= "https://github.com/user-attachments/assets/3e30dbdc-d055-4e27-be69-bf0bdfe9babe" style="width: 250px; height:auto;">
-<p><i>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Packages
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Checkout
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Cart
-</i></p>
+| Packages | Checkout | Cart |
+|---|---|---|
+| <img src="https://github.com/user-attachments/assets/96c4dc56-0202-40e2-9025-bb01fcffa2e5" width="250"> | <img src="https://github.com/user-attachments/assets/3e30dbdc-d055-4e27-be69-bf0bdfe9babe" width="250"> | <img src="https://github.com/user-attachments/assets/b9f4f664-1fc3-426c-bd43-b275415cc95e" width="250"> |
 
-##
-<img src= "https://github.com/user-attachments/assets/bb9afe41-e9bb-4a93-a160-30cd47d63bc9" style="width: 250px; height:auto;">
--
-<img src= "https://github.com/user-attachments/assets/e9c3e14d-b816-41af-a50b-2e8348db216d" style="width: 250px; height:auto;">
--
-<img src= "https://github.com/user-attachments/assets/3bdec8d0-23b7-4239-9cfd-956098c6eefc" style="width: 250px; height:auto;">
-<p><i>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Chat
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  Orders
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  Returns
-</i></p>
+| Chat | Orders | Returns |
+|---|---|---|
+| <img src="https://github.com/user-attachments/assets/bb9afe41-e9bb-4a93-a160-30cd47d63bc9" width="250"> | <img src="https://github.com/user-attachments/assets/3bdec8d0-23b7-4239-9cfd-956098c6eefc" width="250"> | <img src="https://github.com/user-attachments/assets/e9c3e14d-b816-41af-a50b-2e8348db216d" width="250"> |
 
-##
-<p>
-   
-<img src= "https://github.com/user-attachments/assets/c2f4156a-5ccf-4145-9037-b1acd7948d17" style="width: 250px; height:auto;">
--
-  <img src= "https://github.com/user-attachments/assets/11ff0456-ad58-45bd-bbc3-3c3716fa6ff5" style="width: 250px; height:auto;">
-  -
-  <img src= "https://github.com/user-attachments/assets/3f99a49c-4918-45e2-9b87-ce1a45f5823c" style="width: 250px; height:auto;">
-  <p><i>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    Wishlist
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    Profile
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    Main Menu
-  </i></p>
-</p>
+| Wishlist | Profile | Main Menu |
+|---|---|---|
+| <img src="https://github.com/user-attachments/assets/c2f4156a-5ccf-4145-9037-b1acd7948d17" width="250"> | <img src="https://github.com/user-attachments/assets/11ff0456-ad58-45bd-bbc3-3c3716fa6ff5" width="250"> | <img src="https://github.com/user-attachments/assets/3f99a49c-4918-45e2-9b87-ce1a45f5823c" width="250"> |
 
-##
+---
+
+### **Perubahan & Perbaikan:**
+✔ Menggunakan **Markdown table** agar screenshot **tertata rapi & responsif** di GitHub.  
+✔ **Lebar gambar disesuaikan** (`width="250"`) agar tidak terlalu besar di mobile/laptop.  
+✔ **Menghilangkan tag HTML `<p>` dan `<i>`** yang berlebihan agar tampilan lebih bersih.  
+✔ **Memperbaiki struktur heading & list** agar lebih mudah dibaca.  
+
+Hasil ini akan terlihat lebih **rapi, responsif, dan mudah dibaca**, baik di **laptop maupun handphone**. 🚀
