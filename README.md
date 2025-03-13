@@ -23,8 +23,9 @@ Project Flutter desain UI untuk aplikasi **rental alat perkemahan**. Proyek ini 
 ---
 
 ## **Detail Navigasi**
-- Saat pertama kali membuka aplikasi, user akan diarahkan ke **Main Menu** yang memuat tombol untuk setiap fitur, sehingga lebih mudah menavigasi aplikasi.  
-- Setiap **page utama** memiliki tombol kembali ke **Main Menu**, kecuali **sub-page** (misal: checkout, cart).  
+- Saat pertama kali membuka aplikasi, user akan diarahkan ke **Main Menu** yang memuat tombol untuk mengakses setiap fitur, sehingga lebih mudah menavigasi aplikasi.  
+- Setiap **page utama** memiliki tombol kembali ke **Main Menu**, kecuali **sub-page** (misal: checkout, cart).
+<img src="https://github.com/user-attachments/assets/6f0ade3a-330a-4de0-81c4-db54d0763487" width="30%" align="center">
 
 ---
 
