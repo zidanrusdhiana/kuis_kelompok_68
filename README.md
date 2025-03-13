@@ -1,4 +1,8 @@
-# **KUIS 1 PROVIS** - kelompok 68
+# **KUIS 1 PROVIS**
+## Kelompok 68
+- Mochamad Zidan Rusdhiana (2305464)
+- Muhammad Daffa Ma'arif (2305771)
+##
 
 Project flutter desain UI untuk aplikasi rental alat perkemahan, tugas kuis berkelompok dengan 2 anggota dalam mata kuliah program visual dan piranti bergerak.
 
