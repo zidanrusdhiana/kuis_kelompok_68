@@ -74,7 +74,6 @@ Sebelum menjalankan aplikasi, pastikan beberapa tools berikut sudah terinstall:
 - VS Code Flutter & Dart Extensions
 </p>
 jika sudah, berikut langkahnya.
-
 1. Clone repo ini.
    ```
    git clone https://github.com/username/camping-checkout-app.git
@@ -96,7 +95,7 @@ jika sudah, berikut langkahnya.
 -
 <img src= "https://github.com/user-attachments/assets/088aacc9-dd42-4f1a-9823-2171c77957f5" style="width: 250px; height:auto;">
 -
-<img src= "https://github.com/user-attachments/assets/96c4dc56-0202-40e2-9025-bb01fcffa2e5" style="width: 250px; height:auto;">
+<img src= "https://github.com/user-attachments/assets/3dc404ed-5081-49a2-87fb-017f9ece46ee" style="width: 250px; height:auto;">
 <p><i>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Homepage
@@ -105,35 +104,35 @@ jika sudah, berikut langkahnya.
   Product details
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  Packages
+  Ratings
 </i></p>
 
 ##
+<img src= "https://github.com/user-attachments/assets/96c4dc56-0202-40e2-9025-bb01fcffa2e5" style="width: 250px; height:auto;">
+-
 <img src= "https://github.com/user-attachments/assets/3e30dbdc-d055-4e27-be69-bf0bdfe9babe" style="width: 250px; height:auto;">
 -
 <img src= "https://github.com/user-attachments/assets/b9f4f664-1fc3-426c-bd43-b275415cc95e" style="width: 250px; height:auto;">
--
-<img src= "https://github.com/user-attachments/assets/bb9afe41-e9bb-4a93-a160-30cd47d63bc9" style="width: 250px; height:auto;">
 <p><i>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Packages
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Cart
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Checkout
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Chat
+  Checkout
 </i></p>
 
 ##
-<img src= "https://github.com/user-attachments/assets/c2f4156a-5ccf-4145-9037-b1acd7948d17" style="width: 250px; height:auto;">
+<img src= "https://github.com/user-attachments/assets/bb9afe41-e9bb-4a93-a160-30cd47d63bc9" style="width: 250px; height:auto;">
 -
 <img src= "https://github.com/user-attachments/assets/3bdec8d0-23b7-4239-9cfd-956098c6eefc" style="width: 250px; height:auto;">
 -
 <img src= "https://github.com/user-attachments/assets/e9c3e14d-b816-41af-a50b-2e8348db216d" style="width: 250px; height:auto;">
 <p><i>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Wishlist
+  Chat
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   Orders
@@ -144,10 +143,15 @@ jika sudah, berikut langkahnya.
 
 ##
 <p>
+   
+<img src= "https://github.com/user-attachments/assets/c2f4156a-5ccf-4145-9037-b1acd7948d17" style="width: 250px; height:auto;">
+-
   <img src= "https://github.com/user-attachments/assets/11ff0456-ad58-45bd-bbc3-3c3716fa6ff5" style="width: 250px; height:auto;">
   -
   <img src= "https://github.com/user-attachments/assets/3f99a49c-4918-45e2-9b87-ce1a45f5823c" style="width: 250px; height:auto;">
   <p><i>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Wishlist
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     Profile
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
