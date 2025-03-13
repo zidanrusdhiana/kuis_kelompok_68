@@ -54,8 +54,27 @@ Project flutter desain UI untuk aplikasi rental alat perkemahan, tugas kuis berk
   
 <img src= "https://github.com/user-attachments/assets/819c2407-8854-4b1c-a6fd-0a7736df1520" style="width: 250px; height:auto;">
 
-## **Screenshot preview**
+## **Tech Stack**
+🛠 Flutter & Dart – Framework utama untuk membangun aplikasi mobile.
+<p>🎨 Material Design – Digunakan untuk tampilan UI yang modern dan responsif.</p>
 
+## **Instalasi & run aplikasi**
+1. Clone repo ini.
+   ```
+   git clone https://github.com/username/camping-checkout-app.git
+   cd camping-checkout-app
+   ```
+
+4. Install dependencies.
+   ```
+   flutter pub get
+   ```
+6. Jalankan aplikasi.
+   ```
+   flutter run
+   ```
+
+## **Screenshot preview**
 
 <img src= "https://github.com/user-attachments/assets/7c579ed7-72bc-44a2-83b7-e07a2129cb7d" style="width: 250px; height:auto;">
 -
