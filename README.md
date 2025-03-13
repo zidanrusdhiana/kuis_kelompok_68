@@ -70,7 +70,7 @@ Project Flutter desain UI untuk aplikasi **rental alat perkemahan**. Proyek ini 
 |---|---|---|
 | <img src="https://github.com/user-attachments/assets/7c579ed7-72bc-44a2-83b7-e07a2129cb7d" width="250"> | <img src="https://github.com/user-attachments/assets/088aacc9-dd42-4f1a-9823-2171c77957f5" width="250"> | <img src="https://github.com/user-attachments/assets/3dc404ed-5081-49a2-87fb-017f9ece46ee" width="250"> |
 
-| Packages | Checkout | Cart |
+| Packages | Cart | Checkout |
 |---|---|---|
 | <img src="https://github.com/user-attachments/assets/96c4dc56-0202-40e2-9025-bb01fcffa2e5" width="250"> | <img src="https://github.com/user-attachments/assets/3e30dbdc-d055-4e27-be69-bf0bdfe9babe" width="250"> | <img src="https://github.com/user-attachments/assets/b9f4f664-1fc3-426c-bd43-b275415cc95e" width="250"> |
 
