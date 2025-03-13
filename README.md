@@ -59,6 +59,22 @@ Project flutter desain UI untuk aplikasi rental alat perkemahan, tugas kuis berk
 <p>🎨 Material Design – Digunakan untuk tampilan UI yang modern dan responsif.</p>
 
 ## **Instalasi & run aplikasi**
+Sebelum menjalankan aplikasi, pastikan beberapa tools berikut sudah terinstall:
+
+✅ Prasyarat Wajib:
+
+- Flutter SDK
+- Android Studio atau Visual Studio Code
+- Git (jika ingin clone dari repository)
+- Emulator atau perangkat fisik untuk menjalankan aplikasi
+<p>➕ Tambahan (Opsional, tapi Direkomendasikan):
+
+- Java JDK (Jika menggunakan Android Studio)
+- Android SDK & Platform Tools
+- VS Code Flutter & Dart Extensions
+</p>
+jika sudah, berikut langkahnya.
+
 1. Clone repo ini.
    ```
    git clone https://github.com/username/camping-checkout-app.git
