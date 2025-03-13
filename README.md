@@ -128,9 +128,9 @@ jika sudah, berikut langkahnya.<br>
 ##
 <img src= "https://github.com/user-attachments/assets/bb9afe41-e9bb-4a93-a160-30cd47d63bc9" style="width: 250px; height:auto;">
 -
-<img src= "https://github.com/user-attachments/assets/3bdec8d0-23b7-4239-9cfd-956098c6eefc" style="width: 250px; height:auto;">
--
 <img src= "https://github.com/user-attachments/assets/e9c3e14d-b816-41af-a50b-2e8348db216d" style="width: 250px; height:auto;">
+-
+<img src= "https://github.com/user-attachments/assets/3bdec8d0-23b7-4239-9cfd-956098c6eefc" style="width: 250px; height:auto;">
 <p><i>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Chat
