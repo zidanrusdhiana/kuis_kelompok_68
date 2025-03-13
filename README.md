@@ -82,11 +82,3 @@ Project Flutter desain UI untuk aplikasi **rental alat perkemahan**. Proyek ini 
 | <img src="https://github.com/user-attachments/assets/c2f4156a-5ccf-4145-9037-b1acd7948d17" width="250"> | <img src="https://github.com/user-attachments/assets/11ff0456-ad58-45bd-bbc3-3c3716fa6ff5" width="250"> | <img src="https://github.com/user-attachments/assets/3f99a49c-4918-45e2-9b87-ce1a45f5823c" width="250"> |
 
 ---
-
-### **Perubahan & Perbaikan:**
-✔ Menggunakan **Markdown table** agar screenshot **tertata rapi & responsif** di GitHub.  
-✔ **Lebar gambar disesuaikan** (`width="250"`) agar tidak terlalu besar di mobile/laptop.  
-✔ **Menghilangkan tag HTML `<p>` dan `<i>`** yang berlebihan agar tampilan lebih bersih.  
-✔ **Memperbaiki struktur heading & list** agar lebih mudah dibaca.  
-
-Hasil ini akan terlihat lebih **rapi, responsif, dan mudah dibaca**, baik di **laptop maupun handphone**. 🚀
